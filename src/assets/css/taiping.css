@@ -1,0 +1,17 @@
+.taiping {
+  margin-top: 12px;
+  padding-top: 15px;
+}
+.taiping .divide {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.taiping .title {
+  font-size: x-large;
+  font-weight: 500;
+}
+.taiping .d-block {
+  width: 240px;
+  height: 180px;
+  object-fit: cover;
+}

@@ -1,0 +1,53 @@
+.content {
+  margin-top: 12px;
+  padding-top: 30px;
+}
+.content .news h1 {
+  color: #000;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 50px;
+  padding: 10px 0;
+}
+.content .news h3 {
+  color: #6b6b6b;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+  padding: 0 0 10px;
+}
+.content .news .caption {
+  color: #747474;
+  font-weight: 400;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  text-align: center;
+}
+.content .news .divid {
+  margin-bottom: 20px;
+}
+.content .news h4 {
+  color: #3e3e3e;
+  font-family: "Droid Serif", serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  padding: 0 0 20px;
+}
+.content .news .youtube {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.content .news iframe {
+  width: 60%;
+}
+.content .news .container img {
+  height: 500px;
+  width: 50%;
+  object-fit: cover;
+  margin: auto;
+  margin-bottom: 8px;
+}
