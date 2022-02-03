@@ -48,7 +48,7 @@ export default function Header() {
               aria-expanded={visible}
               onClick={() => setVisible(!visible)}
             />
-            <CNavbarBrand href="#">
+            <CNavbarBrand href="/">
               <CImage rounded src={Logo} width={50} height={50} />
               &nbsp; TaipingNews
             </CNavbarBrand>
