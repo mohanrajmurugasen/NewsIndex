@@ -50,7 +50,7 @@ export default function Header() {
             />
             <CNavbarBrand href="/">
               <CImage rounded src={Logo} width={50} height={50} />
-              &nbsp; TaipingNews
+              &nbsp; News360
             </CNavbarBrand>
             <CCollapse className="navbar-collapse" visible={visible}>
               <CNavbarNav className="me-auto mb-2 mb-lg-0 listLinks">
